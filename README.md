@@ -13,3 +13,11 @@ I have used several ways to perform the same exercise
 `pageYOffset`: The number of pixels on the scroll
 
 `offsetTop`: the number of pixels between an element and the top of the viewport
+
+Retrieve the amount of scroll traveled with `window.scrollY`
+
+Set navigation:
+
+Position of navigation in relation to the top of the viewport
+
+Static position: default pos of all elements
