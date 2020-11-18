@@ -8,7 +8,7 @@ I have used several ways to perform the same exercise
 
 `offsetHeight`: set the Height of an element
 
-`scrollY`: The number of pixels on the scroll
+`scrollY`: The number of pixels on the scroll, Retrieve the amount of scroll traveled
 
 `pageYOffset`: The number of pixels on the scroll
 
